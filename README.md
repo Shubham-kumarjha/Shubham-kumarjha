@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.gif" width="100%" alt="Header Banner" />
+</p>
+
 <h1 align="center">Hi 👋,<br>  I'm Shubham Kumar Jha</h1>
 <h3 align="center">Data & AI Engineer | Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
