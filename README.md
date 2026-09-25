@@ -39,10 +39,11 @@
 
 ### 🏆 GitHub Achievements & Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubham-kumarjha&theme=tokyonight&column=6&margin-w=10" alt="Shubham's Trophies" width="100%" />
-</p>
+### 🏆 GitHub Overview & Performance
 
+<p align="center">
+  <img src="https://github-readme-stats.summary.one/api?username=Shubham-kumarjha&theme=tokyonight&show_icons=true&hide_border=true" alt="Shubham's GitHub Stats" width="80%" />
+</p>
 ---
 
 ### 🛠️ Languages, Frameworks & Tools
@@ -90,12 +91,7 @@
 
 ---
 
-### 📊 GitHub Activity Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-kumarjha&theme=tokyonight" alt="Streak Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=Shubham-kumarjha&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
 ---
 
