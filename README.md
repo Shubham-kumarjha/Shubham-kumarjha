@@ -74,6 +74,6 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-kumarjha&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Shubham-kumarjha&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shubham-kumarjha&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=Shubham-kumarjha&layout=compact&theme=tokyonight" width="48%" />
 </p>
