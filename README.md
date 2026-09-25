@@ -35,14 +35,6 @@
 - 💼 **LinkedIn Profile:** [shubham-kumar-jha-ab56b5217](https://www.linkedin.com/in/shubham-kumar-jha-ab56b5217/)
 - ⚡ **Goal:** Building production-grade AI/ML models & data-driven software solutions
 
----
-### 🐍 GitHub Activity Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham-kumarjha/Shubham-kumarjha/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</p>
----
-
 ### 🛠️ Languages, Frameworks & Tools
 
 #### 🐍 Languages & Core Web
