@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<!-- Highly Animated Cyberpunk Typing Subtitle -->
+<!-- Hacker Terminal Monospace Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1200&color=00FF87&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%E2%9A%A1+Data+%26+AI+Engineer;%F0%9F%A4%96+Building+Production-Grade+ML+Pipelines;%F0%9F%92%A1+ECE+Grad+%7C+Scalable+AI+Architect;%F0%9F%93%8A+Data+Pipelines+%26+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=00FF66&center=true&vCenter=true&width=750&height=50&lines=const+role+%3D+%22Data+%26+AI+Engineer%22%3B;import+%7B+MachineLearning%2C+DeepLearning+%7D+from+%27shubham.ai%27%3B;shubham.deploy(%7B+scale%3A+%22Production%22+%7D)%3B;SELECT+*+FROM+knowledge_base+WHERE+passion+%3D+%27AI%27%3B" alt="Terminal Typing" />
 </a>
 
 <br/><br/>
