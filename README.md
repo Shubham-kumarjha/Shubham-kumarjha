@@ -12,12 +12,13 @@
 
 ---
 
-### 💻 SYSTEM TERMINAL & SELF-TYPING PROFILE
+### 🛠️ TECH STACK & ARCHITECTURE
 
-<p align="center">
-  <img src="./ascii-portrait.svg" width="48%" alt="ASCII Portrait" />
-  <img src="./info-card.svg" width="48%" alt="Terminal Info Card" />
-</p>
+| Domain | Core Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Python` `JavaScript` `SQL` `HTML5` `CSS3` |
+| **AI / Data Science** | `PostgreSQL` `Pandas` `NumPy` `Scikit-Learn` `PyTorch` `TensorFlow` |
+| **Tools & Platforms** | `Git` `VS Code` `Vercel` `Linux Environment` |
 
 ---
 
@@ -26,16 +27,6 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/00ff66/Shubham-kumarjha" alt="Contributions Grid" width="100%" />
 </p>
-
----
-
-### 🛠️ TECH STACK & ARCHITECTURE
-
-| Domain | Core Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `Python` `JavaScript` `SQL` `HTML5` `CSS3` |
-| **AI / Data Science** | `PostgreSQL` `Pandas` `NumPy` `Scikit-Learn` `PyTorch` `TensorFlow` |
-| **Tools & Platforms** | `Git` `VS Code` `Vercel` `Linux Environment` |
 
 ---
 
