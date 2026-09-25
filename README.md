@@ -6,6 +6,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=Shubham%20Kumar%20Jha&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
+<br/><br/>
+
+  <!-- Self-Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Data+%26+AI+Engineer;Building+Production-Grade+ML+Pipelines;ECE+Engineer+%7C+AI%2FML+Architect" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
 <h3 align="center">Data & AI Engineer | Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
@@ -15,6 +24,10 @@
   &nbsp;
   <a href="https://shubham-kumarjha-portfolio-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/shubham_kumar_jha01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;
   <a href="mailto:shubhamwhapp1@gmail.com">
@@ -28,7 +41,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀👨‍💻 About Me 👨‍💻🚀
 - 🎓 **Education:** B.Tech in Electronics & Communication Engineering (SLIET Punjab)
 - 🔬 **Focus Areas:** Data Science, Machine Learning, Deep Learning Pipelines & Database Architecture
 - 🌐 **Portfolio Website:** [shubham-kumarjha-portfolio-portfolio.vercel.app](https://shubham-kumarjha-portfolio-portfolio.vercel.app)
@@ -78,11 +91,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
 
-
-
----
 
 ### 📈 Live Contribution Graph
 
