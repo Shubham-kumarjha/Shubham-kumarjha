@@ -1,31 +1,36 @@
-<p align="center">
-  <img src="./banner1.gif" width="100%" alt="Header Banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=Shubham%20Kumar%20Jha&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
-</p>
+  <!-- Dynamic Animated Cyberpunk Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Shubham%20Kumar%20Jha&fontSize=42&fontColor=00ff66&animation=twinkling&desc=Data%20%26%20AI%20Engineer%20%7C%20Machine%20Learning%20Architect&descSize=16&descColor=ffffff" width="100%" alt="Header Banner" />
 
-<h3 align="center">Data & AI Engineer | Aspiring Data Scientist | Machine Learning Enthusiast</h3>
+  <br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kumar-jha-ab56b5217/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <!-- Animated Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Data+%26+AI+Engineer;Building+ML+Models+%26+Data+Pipelines;ECE+Grad+%7C+Aspiring+Data+Scientist" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Animated Glowing Badges -->
+  <a href="https://www.linkedin.com/in/shubham-kumar-jha-ab56b5217/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://shubham-kumarjha-portfolio-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://shubham-kumarjha-portfolio-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:shubhamwhapp1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham-kumarjha&color=00f2fe&style=flat-square&label=Profile+Views" />
-</p>
+  <br/><br/>
 
+  <!-- Dynamic Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Shubham-kumarjha&color=00ff66&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
 ---
 
 ### 🚀 About Me
