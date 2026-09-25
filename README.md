@@ -36,11 +36,11 @@
 - ⚡ **Goal:** Building production-grade AI/ML models & data-driven software solutions
 
 ---
-### 🏆 GitHub Overview & Performance
+### 🐍 GitHub Activity Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.summary.one/api?username=Shubham-kumarjha&theme=tokyonight&show_icons=true&hide_border=true" alt="Shubham's GitHub Stats" width="80%" />
-</p> 
+  <img src="https://raw.githubusercontent.com/Shubham-kumarjha/Shubham-kumarjha/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
 ---
 
 ### 🛠️ Languages, Frameworks & Tools
