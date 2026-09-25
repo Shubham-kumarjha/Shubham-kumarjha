@@ -8,12 +8,12 @@
 
 <br/><br/>
 
-  <!-- Self-Typing Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Data+%26+AI+Engineer;Building+Production-Grade+ML+Pipelines;ECE+Engineer+%7C+AI%2FML+Architect" alt="Typing SVG" />
-  </a>
+<!-- Highly Animated Cyberpunk Typing Subtitle -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1200&color=00FF87&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%E2%9A%A1+Data+%26+AI+Engineer;%F0%9F%A4%96+Building+Production-Grade+ML+Pipelines;%F0%9F%92%A1+ECE+Grad+%7C+Scalable+AI+Architect;%F0%9F%93%8A+Data+Pipelines+%26+Deep+Learning" alt="Typing SVG" />
+</a>
 
-  <br/><br/>
+<br/><br/>
 
 <h3 align="center">Data & AI Engineer | Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
