@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<!-- Hacker Terminal Monospace Typing -->
+<!-- Fast Cyber Terminal Monospace Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=00FF66&center=true&vCenter=true&width=750&height=50&lines=const+role+%3D+%22Data+%26+AI+Engineer%22%3B;import+%7B+MachineLearning%2C+DeepLearning+%7D+from+%27shubham.ai%27%3B;shubham.deploy(%7B+scale%3A+%22Production%22+%7D)%3B;SELECT+*+FROM+knowledge_base+WHERE+passion+%3D+%27AI%27%3B" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=400&color=00FF87&center=true&vCenter=true&width=750&height=50&lines=%3E+System.Init()%3A+Shubham+Kumar+Jha%3B;%3E+Role%3A+Data+%26+AI+Engineer%3B;%3E+Deploying+Production+ML+Pipelines...%3B;%3E+Executing+Complex+SQL+%26+Deep+Learning...%3B;%3E+Status%3A+Ready+To+Scale+AI+Systems%3B" alt="Fast Cyber Terminal" />
 </a>
 
 <br/><br/>
