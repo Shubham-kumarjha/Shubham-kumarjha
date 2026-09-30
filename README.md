@@ -44,11 +44,11 @@
 ---
 
 ### 🚀👨‍💻 About Me 👨‍💻🚀
-- 🎓 **Education:** B.Tech in Electronics & Communication Engineering (SLIET Punjab)
+- 🎓 **Education:** B.Tech in Electronics & Communication Engineering (SLIET Punjab).
 - 🔬 **Focus Areas:** Data Science, Machine Learning, Deep Learning Pipelines & Database Architecture
 - 🌐 **Portfolio Website:** [shubham-kumarjha-portfolio-portfolio.vercel.app](https://shubham-kumarjha-portfolio-portfolio.vercel.app)
 - 💼 **LinkedIn Profile:** [shubham-kumar-jha-ab56b5217](https://www.linkedin.com/in/shubham-kumar-jha-ab56b5217/)
-- ⚡ **Goal:** Building production-grade AI/ML models & data-driven software solutions
+- ⚡ **Goal:** Building production-grade AI/ML models & data-driven software solutions.
 
 ---
 
