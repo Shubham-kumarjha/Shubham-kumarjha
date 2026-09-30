@@ -102,7 +102,7 @@
 </p>
 
 ----
-### 📈 Live Contribution Graph 
+#### 📈 Live Contribution Graph 
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00f2fe/Shubham-kumarjha" alt="Shubham's Github Contribution Chart" width="100%" />
