@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShubham-kumarjha&count_bg=%2300F2FE&title_bg=%23333333&icon=github&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false"/>
+  <img src="https://profile-counter.glitch.me/Shubham-kumarjha/count.svg" alt="Profile Views" />
 </p>
 
 ---
