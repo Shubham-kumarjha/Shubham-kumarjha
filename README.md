@@ -37,9 +37,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FShubham-kumarjha%2FShubham-kumarjha.json&color=00f2fe&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile Views" />
-</p>
+
 
 ---
    
