@@ -39,7 +39,7 @@
 
 
 
----
+--- 
    
 ### 🚀👨‍💻 About Me 👨‍💻🚀
 - 🎓 **Education:** B.Tech in Electronics & Communication Engineering (SLIET Punjab).
@@ -50,7 +50,7 @@
 
 ---
 
-### 🛠️ Languages, Frameworks & Tools
+### 🛠️ Languages, Frameworks & Tools 
 
 #### 🐍 Languages & Core Web
 <p align="center">
@@ -100,9 +100,9 @@
 </p>
 
 ----
-#### 📈 Live Contribution Graph 
+#### 📈 Live Contribution Graph  
 
-<p align="center">
+<p align="center"> 
   <img src="https://ghchart.rshah.org/00f2fe/Shubham-kumarjha" alt="Shubham's Github Contribution Chart" width="100%" />
 </p>
 
