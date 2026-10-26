@@ -17,7 +17,7 @@
 
 <br/>
 
-<h3 align="center">Data & AI Engineer | Aspiring Data Scientist | Machine Learning Enthusiast.</h3>
+<h3 align="center">Data & AI Engineer | Aspiring Data Scientist | Machine Learning Enthusiast.</h3>  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-kumar-jha-ab56b5217/" target="_blank">
