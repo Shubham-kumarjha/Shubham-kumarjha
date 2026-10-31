@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:00ff87&height=220&section=header&text=Shubham%20Kumar%20Jha&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:00ff87&height=220&section=header&text=Shubham%20Kumar%20Jha&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />  
 </p>
+
 
 <br/>  
 
